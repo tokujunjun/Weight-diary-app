@@ -99,7 +99,7 @@
             <div class="border-b border-rose-100/60 pb-3 flex items-center justify-between">
                 <h2 class="font-bold text-slate-800 flex items-center gap-2 text-base">
                     <span class="p-1.5 bg-rose-100 text-rose-500 rounded-xl">✏️</span>
-                    今日の体重をきろくする
+                    今日の体重を記録する
                 </h2>
                 <span class="text-xs text-slate-400">数字を入力して「保存」を押してね</span>
             </div>
