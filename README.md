@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>14日間 やさしい体重管理・分析トラッカー</title>
+    <title>14日間 体重管理・分析トラッカー</title>
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Chart.js -->
@@ -47,7 +47,7 @@
                 </div>
                 <div>
                     <h1 class="text-lg sm:text-xl font-bold text-slate-800 tracking-tight flex items-center gap-2">
-                        14日間 やさしい体重トラッカー
+                        14日間 体重トラッカー
                         <span class="text-xs font-normal text-rose-500 bg-rose-50 px-2.5 py-0.5 rounded-full border border-rose-200/60">🌸 ぽかぽかログ</span>
                     </h1>
                     <p class="text-xs text-slate-500 mt-0.5">起床・朝食後・夕食後・就寝前の4回測定バイタルノート</p>
